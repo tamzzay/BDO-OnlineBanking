@@ -1,7 +1,6 @@
 # BDO-OnlineBanking
-# BDO - We Find Ways 🚀
 
-**BDO - We Find Ways** is a simple and efficient banking webpage built with **HTML**, **CSS**, and **JavaScript**. The project focuses on providing users with an intuitive and secure interface to manage their banking needs. Whether you're looking to access your account, explore services, or simply learn more about banking, this project is designed to offer a seamless experience with a clean layout and responsive design.
+**BDO-OnlineBanking** "We Find Ways!" is a simple and efficient banking webpage built with **HTML**, **CSS**, and **JavaScript**. The project focuses on providing users with an intuitive and secure interface to manage their banking needs. Whether you're looking to access your account, explore services, or simply learn more about banking, this project is designed to offer a seamless experience with a clean layout and responsive design.
 
 ---
 
